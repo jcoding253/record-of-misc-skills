@@ -1,5 +1,9 @@
 # Record-of-Misc-Skills
 
-I wanted a place where I could list skills I have explored but haven't implemented in a project yet. This includes experience with Github, VSCode, Kubuntu, and some SQL.
+#I wanted a place where I could list skills I have explored but haven't implemented in a project yet.
 
-My first document practices beginner SQL commands including: CREATE, USE, INSERT INTO, UPDATE, ALTER, ADD, REMOVE, SELECT, DROP, WHERE, DISTINCT, LIKE, INNER JOIN, LEFT JOIN, GROUP BY, HAVING, DELETE, PRIMARY KEY, FOREIGN KEY, NULL, DESC, AS, OR, AND, INT, VARCHAR.
+#Undocumented experience: Github, VSCode, and Kubuntu (hundreds of hours it feels like)
+
+#Documented experience: Beginner mySQL.
+
+#1st document- beginner SQL commands including: CREATE, USE, INSERT INTO, UPDATE, ALTER, ADD, REMOVE, SELECT, DROP, WHERE, DISTINCT, LIKE, INNER JOIN, LEFT JOIN, GROUP BY, HAVING, DELETE, PRIMARY KEY, FOREIGN KEY, NULL, DESC, AS, OR, AND, INT, VARCHAR.
