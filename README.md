@@ -2,7 +2,7 @@
 
 #I wanted a place where I could list skills I have explored but haven't implemented in a project yet.
 
-#Undocumented experience: Github, VSCode, some Powershell, a lot of Bash and Kubuntu Linux (hundreds of hours it feels like)
+#Undocumented experience: CS50 (Harvard's free, fundamentals for computer science course),Github, VSCode, some Powershell, a lot of Bash and Kubuntu Linux (hundreds of hours it feels like)
 
 #Documented experience: Beginner mySQL.
 
