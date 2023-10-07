@@ -9,5 +9,7 @@ practice and research), Built 2 High Functioning Computer Rigs (2 month project 
 
 #Skills documented in this repo (details below), but not other projects yet: MySQL
 
-#1st document MySQL: beginner SQL commands including: CREATE, USE, INSERT INTO, UPDATE, ALTER, ADD, REMOVE, SELECT, DROP, 
+#Doc1 MySQL:
+
+Practiced SQL commands including: CREATE, USE, INSERT INTO, UPDATE, ALTER, ADD, REMOVE, SELECT, DROP, 
 WHERE, DISTINCT, LIKE, INNER JOIN, LEFT JOIN, GROUP BY, HAVING, DELETE, PRIMARY KEY, FOREIGN KEY, NULL, DESC, AS, OR, AND, INT, VARCHAR.
