@@ -5,7 +5,7 @@
 #Undocumented skills: Github, VSCode, some Powershell, CLI Bash on my Kubuntu Linux production OS (more than 100 hours in 
 practice and research), Built 2 High Functioning Computer Rigs (2 month project and research)
 
-#Skills documented in my other project repos: Terraform, Kubernetes, Python, Bash, JavaScript, C++.
+#Skills documented in my other project repos: Terraform, Kubernetes, Python, Bash, and C++.
 
 #Skills documented in this repo (details below), but not other projects yet: MySQL
 
